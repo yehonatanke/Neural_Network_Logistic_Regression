@@ -26,11 +26,16 @@ Neural Network Logistic Regression: Python script for image classification, usin
 
 This project is based on the materials provided in the 'Deep Learning Specialization' course on Coursera. The foundational concepts, logic, and inspiration for this project are derived from the course materials created by the DeepLearning.AI team.
 
-Attribution
+#### Attribution
 
-Course: Neural Networks and Deep Learning
-Instructor: Andrew Ng
-Platform: Coursera
+Course: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 
+
+Instructor: Andrew Ng 
+
+Platform: [Coursera](https://www.coursera.org)
+
+Host: [DeepLearning.AI](https://www.deeplearning.ai)
+
 Please note that while the code structure has been extensively modified, the core ideas and problem-solving approach are based on the educational content provided in the course.
 
 ## Installation
