@@ -64,9 +64,9 @@ If you need to customize certain paths or settings, follow these steps:
 
 4. Save the changes.
 
-### License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This program is released under the [MIT License](https://github.com/yehonatanke/Neural_Network_Logistic_Regression/blob/main/LICENSE).
 
 ### Author
 
