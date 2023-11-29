@@ -68,6 +68,6 @@ If you need to customize certain paths or settings, follow these steps:
 
 This program is released under the [MIT License](https://github.com/yehonatanke/Neural_Network_Logistic_Regression/blob/main/LICENSE).
 
-### Author
+## Author
 
 yehonataKe
