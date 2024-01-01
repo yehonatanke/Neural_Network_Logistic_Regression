@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
+  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
+  <img src="https://img.shields.io/badge/uses-neural%20network-%232A2F3D.svg">
+</div>
+
 # Neural Network Logistic Regression
 Neural Network Logistic Regression: Python script for image classification, using machine learning to identify cat and non-cat images. Implements logistic regression with neural network architecture.
 
